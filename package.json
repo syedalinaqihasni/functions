@@ -32,7 +32,7 @@
     "react-dom": "^19.1.1",
     "sharp": "^0.34.5",
     "stripe": "^18.4.0",
-    "twilio": "^5.8.0",
+    "twilio": "^6.0.2",
     "twitter-api-v2": "^1.27.0"
   },
   "devDependencies": {
